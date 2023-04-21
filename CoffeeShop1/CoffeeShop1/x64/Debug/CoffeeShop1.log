@@ -1,0 +1,10 @@
+﻿  CoffeeShop1.cpp
+C:\Users\ESAD\source\repos\CoffeeShop1\CoffeeShop1\CoffeeShop1.cpp(26,18): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ESAD\source\repos\CoffeeShop1\CoffeeShop1\CoffeeShop1.cpp(42,113): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\ESAD\source\repos\CoffeeShop1\CoffeeShop1\CoffeeShop1.cpp(43,77): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\ESAD\source\repos\CoffeeShop1\CoffeeShop1\CoffeeShop1.cpp(44,57): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\ESAD\source\repos\CoffeeShop1\CoffeeShop1\CoffeeShop1.cpp(45,76): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\ESAD\source\repos\CoffeeShop1\CoffeeShop1\CoffeeShop1.cpp(140,15): warning C4305: '=': 'double' iken 'float' olarak kesildi
+C:\Users\ESAD\source\repos\CoffeeShop1\CoffeeShop1\CoffeeShop1.cpp(144,15): warning C4305: '=': 'double' iken 'float' olarak kesildi
+C:\Users\ESAD\source\repos\CoffeeShop1\CoffeeShop1\CoffeeShop1.cpp(148,15): warning C4305: '=': 'double' iken 'float' olarak kesildi
+  CoffeeShop1.vcxproj -> C:\Users\ESAD\source\repos\CoffeeShop1\x64\Debug\CoffeeShop1.exe
